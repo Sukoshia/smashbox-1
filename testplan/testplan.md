@@ -65,7 +65,7 @@
 | 8.29        | Short              | Share            |Rename a shared folder|The folder is still shared | | |
 | 8.30        | Short              | Share            |Group names are shown when selecting share to |The group names should not be hidden, although the mouse is over them| | |
 | 8.31        | Short              | Share            | Access to a shared subfolder|On one user create the folders a>a1, and select to share it with another user, user2. Access as user2, to the Shared folder, and to a and a1| | |
-| 14.1        | Short              | Anonymous upload            | Upload file, photo, video,... | Files get upload to owncloud | It is not possible to upload as Anonymous| Why no preview as an Anonymous user|
+| 14.1        | Short              | Anonymous upload            | Upload file, photo, video,... | Files get upload to owncloud | Why no preview as an Anonymous user| |
 | 14.8        | Short              | Anonymous upload            | File size |  It is shown the file size on MB| | |
 | 14.9        | Short              | Anonymous upload            |  Upload a 1GB file| An alerert message should be shown  | | |
 | 14.10        | Short              | Anonymous upload            |  Upload a file whose size is larger than the maximum available size| An alerert message is shown "Not enought storage available" | Max size| |
